@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/07/27 16:57:03.000.423,E:\DelphiProjects\1\PicViewer.dproj=E:\DelphiProjects\3\PicViewer.dproj</Transaction>
+    <Transaction>2016/07/27 16:57:18.000.820,E:\DelphiProjects\1\PicView.dfm=E:\DelphiProjects\3\PicView.dfm</Transaction>
+    <Transaction>2016/07/27 16:57:18.000.820,E:\DelphiProjects\1\PicView.pas=E:\DelphiProjects\3\PicView.pas</Transaction>
+    <Transaction>2016/07/27 16:57:31.000.109,E:\DelphiProjects\1\About.dfm=E:\DelphiProjects\3\About.dfm</Transaction>
+    <Transaction>2016/07/27 16:57:31.000.109,E:\DelphiProjects\1\About.pas=E:\DelphiProjects\3\About.pas</Transaction>
+    <Transaction>2016/07/27 16:57:55.000.203,E:\DelphiProjects\1\MDIChild.dfm=E:\DelphiProjects\3\MDIChild.dfm</Transaction>
+    <Transaction>2016/07/27 16:57:55.000.203,E:\DelphiProjects\1\MDIChild.pas=E:\DelphiProjects\3\MDIChild.pas</Transaction>
+    <Transaction>2016/07/27 17:24:40.000.921,E:\DelphiProjects\3\MDIChild.pas=</Transaction>
+    <Transaction>2016/07/27 21:39:00.000.242,E:\DelphiProjects\3\PicViewer.dproj=E:\DelphiProjects\3\VisualInspect.dproj</Transaction>
+    <Transaction>2016/07/27 21:39:11.000.639,E:\DelphiProjects\3\PicView.pas=E:\DelphiProjects\3\VI.pas</Transaction>
+    <Transaction>2016/07/27 21:39:11.000.639,E:\DelphiProjects\3\PicView.dfm=E:\DelphiProjects\3\VI.dfm</Transaction>
+    <Transaction>2016/07/28 12:36:22.000.327,=E:\DelphiProjects\4\ModelSupport_VisualInspect\default.txaPackage</Transaction>
+  </Transactions>
+</BorlandProject>
